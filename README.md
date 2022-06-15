@@ -1,5 +1,5 @@
 # Directly upload media from Google drive to Youtube using google colab
-email: arnauldkayonga1@gmail.com
+email: denadiaz@proton.me
 
 As a deep learning enthusiast re-implemneting models using the google colab environment,
 i aim to keep my operations/implementation on the internet as much as possible especially data heavy ones like video upload
