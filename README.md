@@ -17,6 +17,6 @@ The script shall automatically install all the dependencies
 
 # Running from Live Notebook in Google Colab
 !git clone https://github.com/denadiaz/yt-up.git \
-!cd youtube_uploader\
-!python youtube_uploader/setup.py\
-!python2 youtube_uploader/upload.py
+!cd yt-up\
+!python yt-up/setup.py\
+!python2 yt-up/upload.py
